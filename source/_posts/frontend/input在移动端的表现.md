@@ -75,7 +75,7 @@ setTimeout(function(){
  1. 固定定位的弹层里面，input的可视：软键盘弹出时，还是会遮挡input框，必须手动滑动。解决思路还是通过滑动或者重新定位弹层的bottom；
  1. 尽量不要让input落在屏幕的50%以下部分。
 
-[1]: /blog/imgs/frontend/input1.png "input1.png"
-[2]: /blog/imgs/frontend/input2.png "input2.png"
-[3]: /blog/imgs/frontend/input3.png "input3.png"
-[4]: /blog/imgs/frontend/input4.png "input4.png"
+[1]: /imgs/frontend/input1.png "input1.png"
+[2]: /imgs/frontend/input2.png "input2.png"
+[3]: /imgs/frontend/input3.png "input3.png"
+[4]: /imgs/frontend/input4.png "input4.png"

@@ -58,12 +58,12 @@ css3中的有一个3D转换模块，一直以来做的是PC端的项目，由于
 本文是从一个菜鸟的角度出发，如果有错误，谢谢指正！
 
 
-  [1]: /blog/imgs/frontend/zuobiaoxi1.png "zuobiaoxi1.png"
-  [2]: /blog/imgs/frontend/zuobiao2.png "zuobiao2.png"
-  [3]: /blog/imgs/frontend/zuobiao3.png "zuobiao3.png"
+  [1]: /imgs/frontend/zuobiaoxi1.png "zuobiaoxi1.png"
+  [2]: /imgs/frontend/zuobiao2.png "zuobiao2.png"
+  [3]: /imgs/frontend/zuobiao3.png "zuobiao3.png"
   [4]: http://htmlpreview.github.io/?https://github.com/rotate720deg/demos/blob/master/transform.html
   [5]: http://htmlpreview.github.io/?https://github.com/rotate720deg/demos/blob/master/transform.html
-  [6]: /blog/imgs/frontend/toushi.png "toushi.png"
-  [7]: /blog/imgs/frontend/translateZ.png "translateZ.png"
-  [8]: /blog/imgs/frontend/shidian.png "shidian.png"
-  [9]: /blog/imgs/frontend/rotateX.png "rotateX.png"
+  [6]: /imgs/frontend/toushi.png "toushi.png"
+  [7]: /imgs/frontend/translateZ.png "translateZ.png"
+  [8]: /imgs/frontend/shidian.png "shidian.png"
+  [9]: /imgs/frontend/rotateX.png "rotateX.png"

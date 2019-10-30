@@ -218,16 +218,16 @@ fb_app_id:
   [1]: https://nodejs.org/en/
   [2]: http://pan.baidu.com/s/1skFLrMt#path=%252Fpub%252Fgit
   [3]: http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
-  [4]: /blog/imgs/frontend/gitBash.png "gitBash.png"
-  [5]: /blog/imgs/frontend/hexoinit.png "hexoinit.png"
-  [6]: /blog/imgs/frontend/npminstall.png "npminstall.png"
-  [7]: /blog/imgs/frontend/hexog.png "hexog.png"
-  [8]: /blog/imgs/frontend/hexos.png "hexos.png"
-  [9]: /blog/imgs/frontend/home.png "home.png"
+  [4]: /imgs/frontend/gitBash.png "gitBash.png"
+  [5]: /imgs/frontend/hexoinit.png "hexoinit.png"
+  [6]: /imgs/frontend/npminstall.png "npminstall.png"
+  [7]: /imgs/frontend/hexog.png "hexog.png"
+  [8]: /imgs/frontend/hexos.png "hexos.png"
+  [9]: /imgs/frontend/home.png "home.png"
   [10]: https://github.com/
-  [11]: /blog/imgs/frontend/newR1.png "newR1.png"
-  [12]: /blog/imgs/frontend/newR2.png "newR2.png"
-  [13]: /blog/imgs/frontend/hexod.png "hexod.png"
+  [11]: /imgs/frontend/newR1.png "newR1.png"
+  [12]: /imgs/frontend/newR2.png "newR2.png"
+  [13]: /imgs/frontend/hexod.png "hexod.png"
   [14]: jiayechao.github.io
   [15]: http://hexo.io/themes/
   [16]: http://soft.xiaoshujiang.com/

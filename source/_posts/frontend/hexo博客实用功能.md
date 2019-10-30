@@ -47,8 +47,8 @@ search:
 
   [1]: http://theme-next.iissnan.com/
   [2]: http://duoshuo.com/
-  [3]: /blog/imgs/frontend/duoshuo1.png "duoshuo1.png"
-  [4]: /blog/imgs/frontend/duoshuo2.png "duoshuo2.png"
-  [5]: /blog/imgs/frontend/discuss.png "discuss.png"
+  [3]: /imgs/frontend/duoshuo1.png "duoshuo1.png"
+  [4]: /imgs/frontend/duoshuo2.png "duoshuo2.png"
+  [5]: /imgs/frontend/discuss.png "discuss.png"
   [6]: http://tongji.baidu.com/
-  [7]: /blog/imgs/frontend/tongji.png "tongji.png"
+  [7]: /imgs/frontend/tongji.png "tongji.png"

@@ -1,5 +1,5 @@
 ---
-title: 最长公共前缀
+title: leetcode-最长公共前缀
 date: 2019-10-12 20:06:51
 categories:
 - 算法

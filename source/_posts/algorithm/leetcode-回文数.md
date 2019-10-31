@@ -1,5 +1,5 @@
 ---
-title: 回文数
+title: leetcode-回文数
 date: 2019-10-02 20:06:51
 categories:
 - 算法

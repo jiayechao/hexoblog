@@ -1,5 +1,5 @@
 ---
-title: 整数反转
+title: leetcode-整数反转
 date: 2019-10-10 20:06:51
 categories:
 - 算法

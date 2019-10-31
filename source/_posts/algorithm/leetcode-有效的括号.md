@@ -1,5 +1,5 @@
 ---
-title: 有效的括号
+title: leetcode-有效的括号
 date: 2019-10-09 20:06:51
 categories:
 - 算法

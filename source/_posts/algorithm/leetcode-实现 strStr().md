@@ -1,5 +1,5 @@
 ---
-title: 实现 strStr()
+title: leetcode-实现 strStr()
 date: 2019-10-06 20:06:51
 categories:
 - 算法

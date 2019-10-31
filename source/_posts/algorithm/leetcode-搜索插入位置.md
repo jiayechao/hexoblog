@@ -1,5 +1,5 @@
 ---
-title: 搜索插入位置
+title: leetcode-搜索插入位置
 date: 2019-10-07 20:06:51
 categories:
 - 算法

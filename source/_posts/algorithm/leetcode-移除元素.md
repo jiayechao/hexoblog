@@ -1,5 +1,5 @@
 ---
-title: 移除元素
+title: leetcode-移除元素
 date: 2019-10-08 20:06:51
 categories:
 - 算法

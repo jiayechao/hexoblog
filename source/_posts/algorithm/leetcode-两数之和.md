@@ -1,5 +1,5 @@
 ---
-title: 两数之和
+title: leetcode-两数之和
 date: 2019-10-03 20:06:51
 categories:
 - 算法

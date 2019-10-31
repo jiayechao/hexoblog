@@ -1,5 +1,5 @@
 ---
-title: 最大子序和
+title: leetcode-最大子序和
 date: 2019-10-11 20:06:51
 categories:
 - 算法

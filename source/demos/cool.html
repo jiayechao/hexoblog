@@ -293,7 +293,6 @@ var writeStyles = function(message, index, interval) {
   if (index < message.length) {
     pre = document.getElementById('style-text');
     pre.scrollTop = pre.scrollHeight;
-    console.log(message[index])
     writeStyleChar(message[index++]);
     return setTimeout((function() {
       return writeStyles(message, index, interval);

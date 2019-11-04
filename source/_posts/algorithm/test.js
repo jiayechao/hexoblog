@@ -1,29 +1,101 @@
-
 /**
  * @param {string} s
- * @return {number}
+ * @return {boolean}
  */
+ function isNumber(s) {
+  let state = 0; 
+  s = s.trim();//去除头尾的空格
+  //遍历所有字符，当做输入
+  for (let i = 0; i < s.length; i++) {
+      switch (s[i]) {
+           //输入正负号
+          case '+':
+          case '-':
+              if (state == 0) {
+                  state = 1;
+              } else if (state == 4) {
+                  state = 6;
+              } else {
+                  return false;
+              }
+              break;
+          //输入数字
+          case '0':
+          case '1':
+          case '2':
+          case '3':
+          case '4':
+          case '5':
+          case '6':
+          case '7':
+          case '8':
+          case '9':
+              //根据当前状态去跳转
+              switch (state) {
+                  case 0:
+                  case 1:
+                  case 2:
+                      state = 2;
+                      break;
+                  case 3:
+                      state = 3;
+                      break;
+                  case 4:
+                  case 5:
+                  case 6:
+                      state = 5;
+                      break;
+                  case 7:
+                      state = 8;
+                      break;
+                  case 8:
+                      state = 8;
+                      break;
+                  default:
+                      return false;
+              }
+              break;
+          //小数点
+          case '.':
+              switch (state) {
+                  case 0:
+                  case 1:
+                      state = 7;
+                      break;
+                  case 2:
+                      state = 3;
+                      break;
+                  default:
+                      return false;
+              }
+              break;
+          //e
+          case 'e':
+              switch (state) {
+                  case 2:
+                  case 3:
+                  case 8:
+                      state = 4;
+                      break;
+                  default:
+                      return false;
+              }
+              break;
+          default:
+              return false;
 
- /**
-  * 思路： 
-  * 1. 从一个不是空格的字母开始数
-  * 2. 如果数到第一个空格，或者i为0时
-  * 3. 即是最后一个单词的长度
-  */
-
-var lengthOfLastWord = function(s) {
-  const len = s.length - 1
-  let begin = false, sum = 0
-  for(let i = len;i > -1; i--) {
-    if(begin && s[i] === ' ') {
-      return sum
-    } else if(!begin && s[i] === ' ') {
-      continue
-    } else{
-      sum++
-      begin = true
-    }
+      }
   }
-  return sum
-};
-console.log(lengthOfLastWord("         "))
+  //橙色部分的状态代表合法数字
+  return state == 2 || state == 3 || state == 5 || state == 8;
+}
+
+
+/**
+ * e前后要有数字，后面不能有小数点，符号只能出现在第一位
+ * 小数点不能出现两个
+ * 正负号只能出现在第一位
+ * 
+ * 
+ */
+console.log(isNumber(" -12.14e-520"))

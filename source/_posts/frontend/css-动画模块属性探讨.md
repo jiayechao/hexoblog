@@ -183,11 +183,11 @@ div:hover{
 ## 结束语
 过渡和动画的属性就说到这了，当然，这只是个简单的讲解，后面会有这方面的实例，再慢慢深入理解。
 
-  [1]: /imgs/frontend/transtionuse.png "transtionuse.png"
+  [1]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/transtionuse.png "transtionuse.png"
   [2]: http://htmlpreview.github.io/?https://github.com/rotate720deg/demos/blob/master/transitionDemo1.html
   [3]: http://htmlpreview.github.io/?https://github.com/rotate720deg/demos/blob/master/transition-delay.html
-  [4]: /imgs/frontend/animationuse.png "animationuse.png"
-  [5]: /imgs/frontend/step.png "step.png"
+  [4]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/animationuse.png "animationuse.png"
+  [5]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/step.png "step.png"
   [6]: http://htmlpreview.github.io/?https://github.com/rotate720deg/demos/blob/master/step.html
   [7]: http://htmlpreview.github.io/?https://github.com/rotate720deg/demos/blob/master/animation-direction.html
   [8]: http://htmlpreview.github.io/?https://github.com/rotate720deg/demos/blob/master/animation-fill-mode.html

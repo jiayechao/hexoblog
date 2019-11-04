@@ -47,8 +47,8 @@ search:
 
   [1]: http://theme-next.iissnan.com/
   [2]: http://duoshuo.com/
-  [3]: /imgs/frontend/duoshuo1.png "duoshuo1.png"
-  [4]: /imgs/frontend/duoshuo2.png "duoshuo2.png"
-  [5]: /imgs/frontend/discuss.png "discuss.png"
+  [3]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/duoshuo1.png "duoshuo1.png"
+  [4]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/duoshuo2.png "duoshuo2.png"
+  [5]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/discuss.png "discuss.png"
   [6]: http://tongji.baidu.com/
-  [7]: /imgs/frontend/tongji.png "tongji.png"
+  [7]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/tongji.png "tongji.png"

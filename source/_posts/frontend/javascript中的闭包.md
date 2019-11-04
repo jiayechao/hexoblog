@@ -236,4 +236,4 @@ object.getName(); //"My Object"
 闭包在 IE 的低版本（IE9以下）中会导致一些特殊的问题。具体来说，如果闭包的作用域链中保存着一个HTML 元素，那么就意味着该元素将无法被销毁。我们目前应该不是很关心这些，有兴趣的可以自行摸索。
 
 
-  [1]: /imgs/frontend/zyyl.png "zyyl.png"
+  [1]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/zyyl.png "zyyl.png"

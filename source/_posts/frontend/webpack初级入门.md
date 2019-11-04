@@ -162,8 +162,8 @@ webpack会缓存没有改变的模块，输出两次编译之间的文件
 
 
   [1]: http://webpack.github.io/docs/tutorials/getting-started/
-  [2]: /imgs/frontend/webpack1.png "webpack1.png"
-  [3]: /imgs/frontend/webpack2.png "webpack2.png"
-  [4]: /imgs/frontend/webpack3.png "webpack3.png"
-  [5]: /imgs/frontend/webpack3.png "webpack3.png"
+  [2]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/webpack1.png "webpack1.png"
+  [3]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/webpack2.png "webpack2.png"
+  [4]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/webpack3.png "webpack3.png"
+  [5]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/webpack3.png "webpack3.png"
   [6]:  http://localhost:8080/webpack-dev-server/bundle

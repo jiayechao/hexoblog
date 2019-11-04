@@ -103,7 +103,7 @@ yarn docs:dev
 
 vuepress也支持部署到自定义域名下，但是需要将自己的域名解析。如下图添加解析后即可
 
-![](/imgs/backend/domain.png)
+![](https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/backend/domain.png)
 
 ## 持续集成
 
@@ -112,7 +112,7 @@ vuepress也支持部署到自定义域名下，但是需要将自己的域名解
 1. 登录[https://www.travis-ci.org](https://www.travis-ci.org), 关联自己的github
 
 2. 在头像处选择`setting`，打开博客仓库的设置，进入设置后，我们需要填入github的令牌`{access_token: token}`
-    ![](/imgs/backend/token.png)
+    ![](https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/backend/token.png)
 
 3. 打开自己的[github](https://github.com/settings/tokens),点击`Generate new token`,选择所有的选项，生成令牌，复制后填入步骤2
 
@@ -172,7 +172,7 @@ export default ({
 在md文档中，我们只需要给img标签添加`v-gallery`即可
 
 ```md
-<img v-gallery src="../.vuepress/public/imgs/backend/token.png" />
+<img v-gallery src="https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/backend/token.png" />
 ```
 
 上面的操作在开发环境中是可以的，但是在build时就会报错`document is not define`
@@ -182,7 +182,7 @@ export default ({
 vuepress是一个ssr，我们要习惯[编写通用代码](https://ssr.vuejs.org/zh/universal.html)。这一步走不通，但我们有一个取巧的办法
 
 ```md
-[<img src="../.vuepress/public/imgs/backend/token.png" />](/imgs/backend/token.png)
+[<img src="https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/backend/token.png" />](https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/backend/token.png)
 ```
 
 将图片展示成一个链接，点击后单独访问，是不是就可以了！

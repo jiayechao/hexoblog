@@ -58,12 +58,12 @@ css3中的有一个3D转换模块，一直以来做的是PC端的项目，由于
 本文是从一个菜鸟的角度出发，如果有错误，谢谢指正！
 
 
-  [1]: /imgs/frontend/zuobiaoxi1.png "zuobiaoxi1.png"
-  [2]: /imgs/frontend/zuobiao2.png "zuobiao2.png"
-  [3]: /imgs/frontend/zuobiao3.png "zuobiao3.png"
+  [1]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/zuobiaoxi1.png "zuobiaoxi1.png"
+  [2]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/zuobiao2.png "zuobiao2.png"
+  [3]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/zuobiao3.png "zuobiao3.png"
   [4]: http://htmlpreview.github.io/?https://github.com/rotate720deg/demos/blob/master/transform.html
   [5]: http://htmlpreview.github.io/?https://github.com/rotate720deg/demos/blob/master/transform.html
-  [6]: /imgs/frontend/toushi.png "toushi.png"
-  [7]: /imgs/frontend/translateZ.png "translateZ.png"
-  [8]: /imgs/frontend/shidian.png "shidian.png"
-  [9]: /imgs/frontend/rotateX.png "rotateX.png"
+  [6]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/toushi.png "toushi.png"
+  [7]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/translateZ.png "translateZ.png"
+  [8]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/shidian.png "shidian.png"
+  [9]: https://blog-images-1252854786.cos.ap-guangzhou.myqcloud.com/imgs/frontend/rotateX.png "rotateX.png"

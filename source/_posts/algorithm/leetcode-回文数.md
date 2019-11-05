@@ -1,10 +1,11 @@
 ---
 title: leetcode-回文数
-date: 2019-10-02 20:06:51
 categories:
-- 算法
+  - 算法
 tags:
-- leetcode
+  - leetcode
+abbrlink: 8440ce31
+date: 2019-10-02 20:06:51
 ---
 
 ## 题目

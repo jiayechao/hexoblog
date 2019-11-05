@@ -1,10 +1,11 @@
 ---
 title: leetcode-最大子序和
-date: 2019-10-11 20:06:51
 categories:
-- 算法
+  - 算法
 tags:
-- leetcode
+  - leetcode
+abbrlink: 26f1c5fe
+date: 2019-10-11 20:06:51
 ---
 
 ## 题目

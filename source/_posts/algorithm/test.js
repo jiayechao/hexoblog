@@ -1,3 +1,6 @@
+---
+abbrlink: 573969b7
+---
 /**
  * @param {string} s
  * @return {boolean}

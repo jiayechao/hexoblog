@@ -1,11 +1,12 @@
 ---
 title: input在移动端的表现
-date: 2017-12-07 21:26:15
 categories:
-- 项目经验
-tags: 
-- input兼容
-- input遮挡
+  - 项目经验
+tags:
+  - input兼容
+  - input遮挡
+abbrlink: bd7367c6
+date: 2017-12-07 21:26:15
 ---
 
 ## 前言

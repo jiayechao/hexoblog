@@ -1,10 +1,11 @@
 ---
 title: javascript的模块模式
-date: 2016-10-27 14:33:29
 categories:
-- 前端基础
+  - 前端基础
 tags:
-- 模块
+  - 模块
+abbrlink: 7d564a78
+date: 2016-10-27 14:33:29
 ---
 
 ## 模仿块级作用域

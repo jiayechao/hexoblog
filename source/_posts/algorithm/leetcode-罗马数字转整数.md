@@ -1,10 +1,11 @@
 ---
 title: leetcode-罗马数字转整数
-date: 2019-10-04 20:06:51
 categories:
-- 算法
+  - 算法
 tags:
-- leetcode
+  - leetcode
+abbrlink: e65b715e
+date: 2019-10-04 20:06:51
 ---
 
 ## 题目

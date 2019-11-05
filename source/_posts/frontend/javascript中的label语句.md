@@ -1,11 +1,12 @@
 ---
 title: javascript中的label语句
-date: 2016-08-24 08:57:50
 categories:
-- 前端基础
-tags: 
-- label
-- 双层循环
+  - 前端基础
+tags:
+  - label
+  - 双层循环
+abbrlink: c5316392
+date: 2016-08-24 08:57:50
 ---
 ## 前言
 一直在用jquery开发，原生js的好多东西一下子下想不起来，故重温《javascript高级程序设计》（下文简称js）一书，发现有个label语句，在该书中，仅仅有几句话，实例都没有，有点羞愧第一次看的时候极其不认真。所以认真google，耐心思考。现奉上拙见。

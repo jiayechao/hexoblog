@@ -1,10 +1,11 @@
 ---
 title: leetcode-有效数字
-date: 2019-11-04 14:36:51
 categories:
-- 算法
+  - 算法
 tags:
-- leetcode
+  - leetcode
+abbrlink: c0b61181
+date: 2019-11-04 14:36:51
 ---
 
 ## 题目

@@ -1,11 +1,12 @@
 ---
 title: javascript中的闭包
-date: 2016-10-26 11:33:34
 categories:
-- 前端基础
+  - 前端基础
 tags:
-- 闭包
-- 递归
+  - 闭包
+  - 递归
+abbrlink: af3c92a0
+date: 2016-10-26 11:33:34
 ---
 
 ## 前言

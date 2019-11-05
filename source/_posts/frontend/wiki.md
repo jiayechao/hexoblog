@@ -1,10 +1,11 @@
 ---
 title: WIKI
-date: 2018-08-14 20:06:51
 categories:
-- wiki
+  - wiki
 tags:
-- wiki
+  - wiki
+abbrlink: 145831b2
+date: 2018-08-14 20:06:51
 ---
 
 ## Function.prototype.apply.call(Math.floor, undefined, [1.75])

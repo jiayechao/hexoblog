@@ -1,10 +1,11 @@
 ---
 title: leetcode-最后一个单词的长度
-date: 2019-10-31 10:06:51
 categories:
-- 算法
+  - 算法
 tags:
-- leetcode
+  - leetcode
+abbrlink: 7f062647
+date: 2019-10-31 10:06:51
 ---
 
 ## 题目

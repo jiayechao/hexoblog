@@ -1,10 +1,11 @@
 ---
 title: leetcode-搜索插入位置
-date: 2019-10-07 20:06:51
 categories:
-- 算法
+  - 算法
 tags:
-- leetcode
+  - leetcode
+abbrlink: 5d485a74
+date: 2019-10-07 20:06:51
 ---
 
 ## 题目

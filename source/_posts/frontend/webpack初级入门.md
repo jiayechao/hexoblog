@@ -1,10 +1,11 @@
 ---
 title: webpack初级入门
-date: 2016-08-14 20:06:51
 categories:
-- webpack
+  - webpack
 tags:
-- webpack
+  - webpack
+abbrlink: c61d876b
+date: 2016-08-14 20:06:51
 ---
 原文地址：[http://webpack.github.io/docs/tutorials/getting-started/][1]
 ## 前言

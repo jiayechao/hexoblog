@@ -1,10 +1,11 @@
 ---
 title: leetcode-移除元素
-date: 2019-10-08 20:06:51
 categories:
-- 算法
+  - 算法
 tags:
-- leetcode
+  - leetcode
+abbrlink: 988620df
+date: 2019-10-08 20:06:51
 ---
 
 ## 题目

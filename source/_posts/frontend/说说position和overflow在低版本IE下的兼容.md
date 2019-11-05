@@ -1,11 +1,12 @@
 ---
 title: 说说position和overflow在低版本IE下的兼容
-date: 2016-08-12 09:13:29
 categories:
-- 前端基础
-tags: 
-- position
-- 兼容
+  - 前端基础
+tags:
+  - position
+  - 兼容
+abbrlink: 1744947e
+date: 2016-08-12 09:13:29
 ---
 ## 前言
 今天同事问了一个软件显示的小问题，当子元素设置了绝对定位时并超出父元素的范围时，却不显示，就像下面：

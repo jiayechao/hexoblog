@@ -1,10 +1,11 @@
 ---
 title: leetcode-报数
-date: 2019-10-01 20:06:51
 categories:
-- 算法
+  - 算法
 tags:
-- leetcode
+  - leetcode
+abbrlink: 19048cd7
+date: 2019-10-01 20:06:51
 ---
 
 ## 题目

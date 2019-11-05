@@ -1,11 +1,12 @@
 ---
 title: 一个简单实用的小函数-操作transform
-date: 2016-10-31 16:42:35
 categories:
-- 项目经验
-- 工具
-tags: 
-- 工具
+  - 项目经验
+  - 工具
+tags:
+  - 工具
+abbrlink: 9bdeb9c6
+date: 2016-10-31 16:42:35
 ---
 
 ## 遇到的问题

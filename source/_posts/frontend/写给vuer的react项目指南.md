@@ -1,10 +1,11 @@
 ---
 title: 写给vuer的react项目搭建指南
-date: 2019-09-02 10:32:30
 categories:
-- 前端框架
-tags: 
-- react
+  - 前端框架
+tags:
+  - react
+abbrlink: d36bc790
+date: 2019-09-02 10:32:30
 ---
 
 ## 为什么

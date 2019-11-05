@@ -1,10 +1,11 @@
 ---
 title: hexo搭建博客系统
 categories:
-- 项目经验
-- 工具
-tags: 
-- hexo
+  - 项目经验
+  - 工具
+tags:
+  - hexo
+abbrlink: 523c210c
 ---
 ## 前言
 

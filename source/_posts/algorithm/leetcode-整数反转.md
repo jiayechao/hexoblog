@@ -1,10 +1,11 @@
 ---
 title: leetcode-整数反转
-date: 2019-10-10 20:06:51
 categories:
-- 算法
+  - 算法
 tags:
-- leetcode
+  - leetcode
+abbrlink: e0ee786e
+date: 2019-10-10 20:06:51
 ---
 
 ## 题目

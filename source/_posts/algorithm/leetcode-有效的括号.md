@@ -1,10 +1,11 @@
 ---
 title: leetcode-有效的括号
-date: 2019-10-09 20:06:51
 categories:
-- 算法
+  - 算法
 tags:
-- leetcode
+  - leetcode
+abbrlink: 55127d28
+date: 2019-10-09 20:06:51
 ---
 
 ## 题目

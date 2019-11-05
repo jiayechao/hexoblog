@@ -1,10 +1,11 @@
 ---
-title: css属性scoped 
-date: 2017-05-17 15:26:05 
-tags: 
- - css3
- - scoped
- - 饿了么
+title: css属性scoped
+tags:
+  - css3
+  - scoped
+  - 饿了么
+abbrlink: 2a2f9047
+date: 2017-05-17 15:26:05
 ---
 
 ## 重启博客 

@@ -1,10 +1,11 @@
 ---
 title: JavaScript模块风格极简小记
-date: 2018-05-15 23:10:46
 categories:
-- 前端基础
-tags: 
-- 模块
+  - 前端基础
+tags:
+  - 模块
+abbrlink: 18e4f619
+date: 2018-05-15 23:10:46
 ---
 
 ### 闲扯几句

@@ -1,10 +1,11 @@
 ---
 title: leetcode-删除排序数组中的重复项
-date: 2019-10-05 20:06:51
 categories:
-- 算法
+  - 算法
 tags:
-- leetcode
+  - leetcode
+abbrlink: c38fb42c
+date: 2019-10-05 20:06:51
 ---
 
 ## 题目

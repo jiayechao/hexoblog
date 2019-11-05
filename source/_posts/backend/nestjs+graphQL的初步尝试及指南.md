@@ -1,12 +1,13 @@
 ---
 title: nestjs+graphQL的初步尝试及指南
-date: 2019-08-15 20:06:51
 categories:
-- 前端框架
+  - 前端框架
 tags:
-- node
-- nestjs
-- grapgql
+  - node
+  - nestjs
+  - grapgql
+abbrlink: d800e352
+date: 2019-08-15 20:06:51
 ---
 
 ## nestjs学习

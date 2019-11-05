@@ -1,11 +1,12 @@
 ---
 title: 基于vuepress搭建个人博客
-date: 2019-08-15 20:06:51
 categories:
-- 前端框架
+  - 前端框架
 tags:
-- vue
-- vuepress
+  - vue
+  - vuepress
+abbrlink: a6e9523a
+date: 2019-08-15 20:06:51
 ---
 
 ## vuepress介绍

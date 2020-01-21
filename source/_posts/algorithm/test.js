@@ -1,25 +1,39 @@
 ---
 abbrlink: 573969b7
 ---
-/**
- * @param {number} n
- * @return {number}
- */
+console.log('1');
+async function async1() {
+    console.log('2');
+    await async2();
+    console.log('3');
+}
+async function async2() {
+    console.log('4');
+}
 
-/**
- * 就是将一个整数分解成1和2组成的和，然后求出这些因数的排序 
- */
-var climbStairs = function(i, n) {
-  if(n<1) {
-    return 0
-  }
-  if(n == 1) {
-    return 1
-  }
-  if(n == 2) {
-    return 2
-  }
-  return climbStairs(n - 2) + climbStairs(n - 1)
-};
+process.nextTick(function() {
+    console.log('5');
+})
 
-console.log(climbStairs(45))
+setTimeout(function() {
+    console.log('6');
+    process.nextTick(function() {
+        console.log('7');
+    })
+    new Promise(function(resolve) {
+        console.log('8');
+        resolve();
+    }).then(function() {
+        console.log('9')
+    })
+}, 0)
+
+async1();
+
+new Promise(function(resolve) {
+    console.log('10');
+    resolve();
+}).then(function() {
+    console.log('11');
+});
+console.log('12');

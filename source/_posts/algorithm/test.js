@@ -1,16 +1,33 @@
 ---
 abbrlink: 573969b7
 ---
-let arr = []
-var kthSmallest = function(root, k) {
-  let current = root
-  if(current !== null) {
-    kthSmallest(current.left, k)
-    // 这里执行
-    arr.push(current.val)
-    kthSmallest(current.right,k)
+var fog = function(n) {
+  // 跳出递归的条件
+  if(n <= 2) {
+    return n
   }
-};
+  // 函数等价式
+  return fog(n - 1) + fog(n-2)
+}
+
+console.log(fog(4))
+
+/**
+ * 1->2->3->4
+ * @param {*} root 
+ */
+var reverseList = function(root) {
+  if(!root || !root.next) {
+    return root
+  }
+  // 我们假设到这里时已经是 1->2<-3<-4
+  let newLinkedList = reverseList(root.next)
+  // 我们就需要将1和2的指向变一下
+  let t1 = root.next // 2
+  t1.next = root // 2->1
+  root.next = null // 1-> null
+  return newLinkedList // 返回新的
+}
 
 const linked = {
   val: 5,
@@ -37,5 +54,5 @@ const linked = {
     }
   },
 }
-kthSmallest(linked, 3)
+// console.log(diameterOfBinaryTree(linked))
 // console.log(kthSmallest(linked, 3))

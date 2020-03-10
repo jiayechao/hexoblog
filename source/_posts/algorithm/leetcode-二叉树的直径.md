@@ -31,7 +31,7 @@ date: 2020-03-10 11:11:48
 
 ```javascript
 /**
- * Definition for a binary tree node.
+ * Definition for0 a binary tree node.
  * function TreeNode(val) {
  *     this.val = val;
  *     this.left = this.right = null;

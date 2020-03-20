@@ -1,12 +1,12 @@
 ---
 title: node开发中常用的基本模块
-date: 2020-03-18 13:20:02
-categories:
 categories:
   - node
 tags:
   - node
   - npm
+abbrlink: 8e16a359
+date: 2020-03-18 13:20:02
 ---
 
 ### 文件操作

@@ -1,5 +1,5 @@
 ---
-title: leetcode-股票买卖的最佳时机.md
+title: leetcode-股票买卖的最佳时机
 categories:
   - 算法
 tags:

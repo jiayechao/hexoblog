@@ -9,7 +9,7 @@ abbrlink: c2fa2936
 date: 2020-01-21 10:20:46
 ---
 
-前面写过一篇[写给vuer的react项目搭建指南](https://www.jiayechao.com/archives/d36bc790)，简单写了下如何快速开始一个react项目，虽然简单了点，但是大致指明了方向。这一篇我打算聊聊我认识的react和vue的异同点。
+前面写过一篇[写给vuer的react项目搭建指南](https://www.jiayechao.com/archives/d36bc790/)，简单写了下如何快速开始一个react项目，虽然简单了点，但是大致指明了方向。这一篇我打算聊聊我认识的react和vue的异同点。
 
 ## 相同点
 

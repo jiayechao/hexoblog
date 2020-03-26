@@ -1,39 +1,63 @@
 ---
-abbrlink: 573969b7
+abbrlink: 45622
 ---
-console.log('1');
-async function async1() {
-    console.log('2');
-    await async2();
-    console.log('3');
-}
-async function async2() {
-    console.log('4');
-}
+var numRookCaptures = function(board) {
+    let result = 0
+    let R = []
+    let width = board[0].length
+    let height = board.length
+    for(let i = 0; i < height; i++) {
+        for(let j = 0; j< width; j++){
+            if(board[i][j] === 'R') {
+                R = [i, j] 
+            }
+        }
+    }
+    console.log(R)
+    // 然后向四个方向走
+    for(let j = R[1]; j< width; j++){
+        if(board[R[0]][j] === 'B') {
+            break
+        }
+        if(board[R[0]][j] === 'p') {
+            console.log([R[0],j])
+            result += 1
+            break
+        }
+    }
+    for(let j = R[1]; j> -1; j--){
+        if(board[R[0]][j] === 'B') {
+            break
+        }
+        if(board[R[0]][j] === 'p') {
+            console.log([R[0],j])
+            result += 1
+            break
+        }
+    }
+    for(let j = R[0]; j< height; j++){
+        if(board[j][R[1]] === 'B') {
+            break
+        }
+        if(board[j][R[1]] === 'p') {
+            console.log([j, R[1]])
+            result += 1
+            break
+        }
+    }
+    for(let j = R[0]; j> -1; j--){
+        if(board[j][R[1]] === 'B') {
+            break
+        }
+        if(board[j][R[1]] === 'p') {
+            console.log([j, R[1]])
+            result += 1
+            break
+        }
+    }
+    return result
+};
 
-process.nextTick(function() {
-    console.log('5');
-})
+var r = numRookCaptures([[".",".",".",".",".",".",".","."],[".",".",".","p",".",".",".","."],[".",".",".","R",".",".",".","p"],[".",".",".",".",".",".",".","."],[".",".",".",".",".",".",".","."],[".",".",".","p",".",".",".","."],[".",".",".",".",".",".",".","."],[".",".",".",".",".",".",".","."]])
 
-setTimeout(function() {
-    console.log('6');
-    process.nextTick(function() {
-        console.log('7');
-    })
-    new Promise(function(resolve) {
-        console.log('8');
-        resolve();
-    }).then(function() {
-        console.log('9')
-    })
-}, 0)
-
-async1();
-
-new Promise(function(resolve) {
-    console.log('10');
-    resolve();
-}).then(function() {
-    console.log('11');
-});
-console.log('12');
+console.log(r)
